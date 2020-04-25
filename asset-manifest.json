@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/KariAndreah/where-in-the-world/static/css/main.1f442fd3.chunk.css",
+    "main.js": "/KariAndreah/where-in-the-world/static/js/main.594f4167.chunk.js",
+    "main.js.map": "/KariAndreah/where-in-the-world/static/js/main.594f4167.chunk.js.map",
+    "runtime-main.js": "/KariAndreah/where-in-the-world/static/js/runtime-main.f255e624.js",
+    "runtime-main.js.map": "/KariAndreah/where-in-the-world/static/js/runtime-main.f255e624.js.map",
+    "static/js/2.87f7cea8.chunk.js": "/KariAndreah/where-in-the-world/static/js/2.87f7cea8.chunk.js",
+    "static/js/2.87f7cea8.chunk.js.map": "/KariAndreah/where-in-the-world/static/js/2.87f7cea8.chunk.js.map",
+    "index.html": "/KariAndreah/where-in-the-world/index.html",
+    "precache-manifest.adfb249337c6a3e9c53577c6868f2f25.js": "/KariAndreah/where-in-the-world/precache-manifest.adfb249337c6a3e9c53577c6868f2f25.js",
+    "service-worker.js": "/KariAndreah/where-in-the-world/service-worker.js",
+    "static/css/main.1f442fd3.chunk.css.map": "/KariAndreah/where-in-the-world/static/css/main.1f442fd3.chunk.css.map",
+    "static/js/2.87f7cea8.chunk.js.LICENSE.txt": "/KariAndreah/where-in-the-world/static/js/2.87f7cea8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f255e624.js",
+    "static/js/2.87f7cea8.chunk.js",
+    "static/css/main.1f442fd3.chunk.css",
+    "static/js/main.594f4167.chunk.js"
+  ]
+}
