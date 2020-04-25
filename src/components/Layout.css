@@ -1,0 +1,131 @@
+/*---------- SearchBox ---------*/
+.searchFlex{
+    display:flex;
+    justify-content: center;
+}
+.searchBox{
+    width:350px;
+    line-height: 40px;
+    margin: auto;
+}
+input{
+    height:100px;
+}
+
+/*---------- CardList -----------*/
+.cardFlex{
+    max-width: 1200px;
+    margin:auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+/*----------- Card -------------*/
+.countryCard{
+    display: flex;
+    flex-direction: column;
+    width:260px;
+    min-width: 260px;
+    height: 350px;
+    min-height: 350px;
+    max-height: 350px;
+    margin:20px;
+    margin-bottom: 65px;
+    max-width: 260px;
+    border-width: .2rem;
+    font-size: 14px;
+    cursor: pointer;
+}
+.flagImg{
+    background-size: cover;
+    background-position: center;
+    height: 160px;
+    width:260px;
+    min-width:260px;
+    border-radius: 5px 5px 0px 0px;
+}
+.info{
+    background-color:hsl(209, 23%, 22%);
+    max-width: 260px;
+    height:inherit;
+    max-height: 175px;
+    border-radius: 0px 0px 5px 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color:white;
+}
+.detail > p:first-child{
+    font-weight: 700;
+}
+.detail p {
+    display: inline;
+    line-height: 2;
+    font-size: 14px;
+}
+
+/*--------- Detailed Card ----------*/
+.buttonContainer{
+    max-width:1200px;
+    margin:auto;
+}
+.backButton{
+    background-color:hsl(209, 23%, 22%);
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+    border: none;
+    color:white;
+    width:150px;
+    height:50px;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+.detailedCard{
+    height:400px;
+    max-width:750px;
+    margin:auto;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+.detailBox{
+    max-width: 400px;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    margin:20px;
+}
+.detailInfo{
+    max-width: 590px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.detailFlagImg{
+    margin-top: 30px;
+    background-size: cover;
+    background-position: center;
+    align-self: center;
+    width:330px;
+    height:200px;
+    min-width:260px;
+}
+
+.detail2 > p:first-child{
+    font-weight: 700;
+}
+.detail2 p {
+    display: inline;
+    line-height: 3;
+    font-size: 16px;
+}
+
+
+@media screen and (max-width: 600px){
+    .detailedCard{
+        justify-content: center;
+    }
+}
