@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "80060fa8ee8efd1c96ee099e8d37f044",
+    "revision": "66ae0ebd1b29434e449411c1578d5117",
     "url": "/where-in-the-world/index.html"
   },
   {
-    "revision": "18e9557ddcd425cd649d",
-    "url": "/where-in-the-world/static/css/main.1f442fd3.chunk.css"
+    "revision": "6977798264bf93c94922",
+    "url": "/where-in-the-world/static/css/main.9d1119b1.chunk.css"
   },
   {
     "revision": "90584ed4b4edf4afd0db",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/where-in-the-world/static/js/2.87f7cea8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "18e9557ddcd425cd649d",
+    "revision": "6977798264bf93c94922",
     "url": "/where-in-the-world/static/js/main.0cf3964d.chunk.js"
   },
   {
